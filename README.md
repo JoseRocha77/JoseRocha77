@@ -38,27 +38,6 @@ Atualmente, estou à procura de uma oportunidade de **Estágio Curricular ou de 
 
 ---
 
-### 📚 Aprendizagem Atual
-* Aprofundamento em **Arquitetura de Sistemas Backend**.
-
----
-
-### 🚀 Projetos em Destaque
-
-Aqui estão alguns dos trabalhos académicos e pessoais que desenvolvi durante o meu percurso na UMinho:
-
-#### POO-SpotifUM
-* **Tecnologias:** Java, Serialização de Objetos.
-* **O que faz:** Um motor completo para gestão de utilizadores e reprodução musical, aplicando conceitos avançados de POO.
-* [🔗 https://github.com/JoseRocha77/POO-SpotifUM.git]
-
-#### Bases-de-Dados-24-25-Stand-do-Emigrante
-* **Tecnologias:** SQL, MySQL Workbench, Modelação Relacional.
-* **O que faz:** Desenho e implementação de uma base de dados relacional para gerir a operação logística de uma empresa de rent-a-car com três stands regionais. Inclui a modelação de entidades complexas (Veículos, Reservas, Clientes e Manutenção) e a criação de queries de suporte à decisão para otimização da frota e faturação.
-* [🔗 https://github.com/JoseRocha77/Bases-de-Dados-24-25-Stand-do-Emigrante.git]
-
----
-
 ### 📫 Contacto & Links
 * **LinkedIn:** www.linkedin.com/in/josé-rocha-575a42283
 * **Email:** joserochacode@gmail.com
