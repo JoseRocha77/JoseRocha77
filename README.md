@@ -15,11 +15,11 @@ Currently, I am looking for an **Internship** or **Junior position** where I can
 
 ### 🛠️ Tech Stack & Tools
 
-| Categoria | Tecnologias |
+| Category | Technologies |
 | :--- | :--- |
-| **Linguagens** | C, Haskell, Java, Python, SQL |
+| **Languages** | C, Haskell, Java, Python, SQL |
 | **Web (Frontend)** | Vue.js, JavaScript, HTML, CSS |
-| **Frameworks & Ferramentas** | Docker, Git, MySQL, Linux, Visual Paradigm |
+| **Data & Tools** | Docker, Git, MySQL, Linux, Visual Paradigm |
 
 ---
 
