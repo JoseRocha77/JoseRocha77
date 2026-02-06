@@ -41,6 +41,6 @@ Currently, I am looking for an **Internship** or **Junior position** where I can
 ### 📫 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josé-rocha-575a42283)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joserochacode@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jjosemanuelrocha2005@gmail.com)
 
 📍 **Location:** Braga, Portugal
