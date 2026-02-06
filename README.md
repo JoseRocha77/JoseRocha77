@@ -1,17 +1,18 @@
-# Olá, eu sou o José Rocha 👋
+# Hi there, I'm José Rocha 👋
 
-Estudante de Engenharia Informática na **Universidade do Minho** (3.º ano). Sou um entusiasta pela resolução de problemas através do código, com um foco particular na robustez do software e na inteligência por trás dos dados.
+I'm a **Software Engineering** student at the **University of Minho** (3rd year). I am deeply passionate about solving complex problems through code, with a core focus on software robustness and the intelligence behind data.
 
-Atualmente, estou à procura de uma oportunidade de **Estágio Curricular ou de Verão** (ou uma posição **Junior**) onde possa contribuir para projetos reais e acelerar o meu crescimento como desenvolvedor.
+Currently, I am looking for an **Internship** or **Junior position** where I can contribute to real-world projects and accelerate my growth as a developer, especially in data-driven environments.
+
+---
+
+### 🎯 Areas of Interest
+* **Data Engineering & Analytics:** Building pipelines and transforming raw data into actionable insights.
+* **Software Engineering:** Best practices, clean code, and scalable architecture.
+* **Backend Development:** Designing efficient server-side logic and robust systems.
 
 ---
 
-### 🎯 Áreas de Interesse
-* **Backend Development:** Construção de sistemas escaláveis e lógica de servidor.
-* **Data Engineering & Analysis:** Transformação de dados brutos em insights acionáveis.
-* **Software Engineering:** Boas práticas, arquitetura e código limpo.
-
----
 
 ### 🛠️ Tecnologias & Ferramentas
 
@@ -38,9 +39,9 @@ Atualmente, estou à procura de uma oportunidade de **Estágio Curricular ou de 
 
 ---
 
-### 📫 Contacto & Links
-* **LinkedIn:** www.linkedin.com/in/josé-rocha-575a42283
-* **Email:** joserochacode@gmail.com
-* **Localização:** Braga , Portugal
+### 📫 Connect with me
 
----
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josé-rocha-575a42283)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joserochacode@gmail.com)
+
+📍 **Location:** Braga, Portugal
