@@ -2,36 +2,42 @@
 
 I'm a **Software Engineering** student at the **University of Minho** (3rd year). I am deeply passionate about solving complex problems through code, with a core focus on software robustness and the intelligence behind data.
 
-Currently, I am looking for an **Internship** or **Junior position** where I can contribute to real-world projects and accelerate my growth as a developer, especially in data-driven environments.
+Currently **open to Internship or Junior position** opportunities where I can contribute to real-world projects and accelerate my growth as a developer, especially in data-driven and systems environments.
 
 ---
 
 ### 🎯 Areas of Interest
+
 * **Data Engineering & Analytics:** Building pipelines and transforming raw data into actionable insights.
 * **Software Engineering:** Best practices, clean code, and scalable architecture.
 * **Backend Development:** Designing efficient server-side logic and robust systems.
+* **Computer Graphics & Simulation:** 3D rendering, OpenGL pipelines and real-time engines.
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 
-| Category | Technologies |
-| :--- | :--- |
-| **Languages** | C, Haskell, Java, Python, SQL |
-| **Web (Frontend)** | Vue.js, JavaScript, HTML, CSS |
-| **Data & Tools** | Docker, Git, MySQL, Linux, Visual Paradigm |
+| Category           | Technologies                                        |
+| :----------------- | :-------------------------------------------------- |
+| **Languages**      | C, C++, Haskell, Java, Python, SQL                  |
+| **Web (Frontend)** | Vue.js, JavaScript, HTML, CSS                       |
+| **Graphics**       | OpenGL, GLUT, GLEW, DevIL                           |
+| **Networking**     | Scapy, TCP/IP, BPF                                  |
+| **Data & Tools**   | Docker, Git, MySQL, Linux, Visual Paradigm          |
 
 ---
 
 ### 💻 Skills
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
